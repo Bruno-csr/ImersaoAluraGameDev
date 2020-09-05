@@ -1,0 +1,33 @@
+
+{
+"configVida" : {
+    "vidaMaxima": 3,
+    "vidaInicial": 2
+},
+"configMoeda" : {
+    "moedaMaxima": 2,
+    "moedaInicial": 0
+},
+
+"mapa": [{
+    "inimigo": 1,
+    "velocidade": 10
+    },
+
+    {
+    "inimigo": 0,
+    "velocidade": 10
+    },
+
+    {
+    "inimigo": 2,
+    "velocidade": 10
+    },
+
+    {
+    "inimigo": 2,
+    "velocidade": 10
+    }
+]
+
+}
